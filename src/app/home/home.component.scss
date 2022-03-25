@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo&family=Dongle:wght@300;400;700&family=Merriweather&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&display=swap');
 *,
 *::before,
 *::after {
@@ -215,7 +214,10 @@ font-weight: 700;
   display: grid;
   grid-template-rows: 70% 15% 15%;
 }
-
+/* .hd-Img{
+  text-align: center;
+  align-self: center;
+} */
 .btn {
   display: inline-block;
   padding: 20px;
@@ -226,6 +228,9 @@ font-weight: 700;
   color: var(--color-white);
 }
 
+/* .relate{
+  position: relative;
+} */
 .search-dspl {
   background-color: var(--color-search);
   border-radius: 50%;
